@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "ddd-sample-breeder",
   "private": true,
   "scripts": {
     "build": "turbo build",
